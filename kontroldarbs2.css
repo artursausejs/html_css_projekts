@@ -1,0 +1,56 @@
+h1
+ {
+
+}
+
+h2
+ {
+
+}
+
+p
+ {
+
+}
+
+img
+ {
+
+}
+
+div.lapa
+ {
+  margin:
+}
+
+div.baneris
+ {
+
+}
+
+div.logs
+ {
+
+}
+
+a.poga {
+    display: block;
+	height: 40px;
+	width: 169px;
+	color: #FFFFFF;
+	text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+}
+
+a.poga:hover
+{
+    display: block;
+	height: 40px;
+	width: 169px;
+	color: #FFFFFF;
+    text-align: center;
+    line-height: 40px;
+}
+
+
